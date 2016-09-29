@@ -5,6 +5,7 @@
 | 16.9.12 | 卞维杰 | [Deep Reinforcement Learning with a Natural Language Action Space](https://arxiv.org/abs/1511.04636) | [简介](https://zhuanlan.zhihu.com/p/22543440) |
 | 16.9.12 | 梁亮 | [Collaborative Filtering with Recurrent Neural Networks](http://arxiv.org/abs/1608.07400) | [简介](https://zhuanlan.zhihu.com/p/22547637) |
 | 16.9.12 | 王梓良 | [A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task](http://nlp.stanford.edu/pubs/chen2016thorough.pdf)| [简介](https://zhuanlan.zhihu.com/p/22685175?refer=c_51425207) |
+| 16.9.12 | 鄢曼丽 | [Question Answering on Freebase via Relation Extraction and Textual Evidence](http://128.84.21.199/pdf/1603.00957v3.pdf)| [简介](https://zhuanlan.zhihu.com/p/22630320?refer=c_51425207)|
 | 16.9.19 | 王毅 | [Factored Neural Machine Translation](http://arxiv.org/abs/1609.04621) | [简介](https://zhuanlan.zhihu.com/p/22618651?refer=c_51425207) |
 | 16.9.19 | 熊志远 | [Bidirectional Recurrent Convolutional Neural Network for Relation Classification](https://link.zhihu.com/?target=http%3A//www.aclweb.org/anthology/P/P16/P16-1072.pdf) | [简介](https://zhuanlan.zhihu.com/p/22683996?refer=c_51425207) |
 | 16.9.19 | 王新波 | [Neural Sentiment Classification with User and Product Attention](http://www.thunlp.org/~chm/publications/emnlp2016_NSCUPA.pdf) | [简介](https://zhuanlan.zhihu.com/p/22629800?refer=c_51425207) |
