@@ -2,6 +2,7 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.10.05 | 熊志远 | [End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures](https://arxiv.org/pdf/1601.00770.pdf) | [简介](https://zhuanlan.zhihu.com/p/22773196?refer=c_51425207)|
 | 2016.09.29 | 鄢曼丽 | [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847) | [简介](https://zhuanlan.zhihu.com/p/22704349?refer=c_51425207)|
 | 2016.9.26 | 梁亮 | [Max-Margin DeepWalk: Discriminative Learning of Network Representation](http://10.3.200.202/cache/13/03/tsinghua.edu.cn/242c9fcdfd9d8abcd346f8ee4da14535/ijcai2016_mmdw.pdf) | [简介](https://zhuanlan.zhihu.com/p/22660025) |
 | 2016.9.26 | 卞维杰 | [SEQUENCE LEVEL TRAINING WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06732v7.pdf) | [简介](https://zhuanlan.zhihu.com/p/22649457?refer=c_51425207) |
