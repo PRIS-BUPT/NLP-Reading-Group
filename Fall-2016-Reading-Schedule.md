@@ -2,7 +2,8 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
-| 2016.10.11 | 黄凯瑜 | [aclweb](http://www.aclweb.org/anthology/P/P16/P16-1123.pdf) | [简介](https://zhuanlan.zhihu.com/p/22867750?refer=c_51425207)|
+| 2016.10.16 | 王毅 | [Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811v6.pdf) | [简介](https://zhuanlan.zhihu.com/p/22993927?refer=c_51425207)|
+| 2016.10.11 | 黄凯瑜 | [Relation Classification via Multi-Level Attention CNNs](http://www.aclweb.org/anthology/P/P16/P16-1123.pdf) | [简介](https://zhuanlan.zhihu.com/p/22867750?refer=c_51425207)|
 | 2016.10.10 | 王新波 | [Aspect Level Sentiment Classification with Deep Memory Network](https://arxiv.org/pdf/1605.08900v2.pdf) | [简介](https://zhuanlan.zhihu.com/p/22841142?refer=c_51425207)|
 | 2016.10.05 | 熊志远 | [End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures](https://arxiv.org/pdf/1601.00770.pdf) | [简介](https://zhuanlan.zhihu.com/p/22773196?refer=c_51425207)|
 | 2016.09.29 | 鄢曼丽 | [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847) | [简介](https://zhuanlan.zhihu.com/p/22704349?refer=c_51425207)|
