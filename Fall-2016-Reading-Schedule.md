@@ -2,6 +2,8 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.10.24 | 王梓良 | [Improved Representation Learning for Question Answer Matching](https://pdfs.semanticscholar.org/1261/fe9bfde319abcc5d011bc70f7e7547b5258f.pdf) | [简介](https://zhuanlan.zhihu.com/p/23163137?refer=c_51425207)|
+| 2016.10.22 | 朱芳仪 | [Aggregating Deep Convolutional Features for Image Retrieval](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Babenko_Aggregating_Local_Deep_ICCV_2015_paper.pdf) | [简介](https://zhuanlan.zhihu.com/p/23136747?refer=c_51425207)|
 | 2016.10.16 | 王毅 | [Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811v6.pdf) | [简介](https://zhuanlan.zhihu.com/p/22993927?refer=c_51425207)|
 | 2016.10.11 | 黄凯瑜 | [Relation Classification via Multi-Level Attention CNNs](http://www.aclweb.org/anthology/P/P16/P16-1123.pdf) | [简介](https://zhuanlan.zhihu.com/p/22867750?refer=c_51425207)|
 | 2016.10.10 | 王新波 | [Aspect Level Sentiment Classification with Deep Memory Network](https://arxiv.org/pdf/1605.08900v2.pdf) | [简介](https://zhuanlan.zhihu.com/p/22841142?refer=c_51425207)|
