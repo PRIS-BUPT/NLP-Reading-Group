@@ -2,6 +2,7 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.10.30 | 熊志远 | [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases](http://aclweb.org/anthology/P/P16/P16-1076.pdf) | [简介](https://zhuanlan.zhihu.com/p/23309130?refer=c_51425207)|
 | 2016.10.24 | 王梓良 | [Improved Representation Learning for Question Answer Matching](https://pdfs.semanticscholar.org/1261/fe9bfde319abcc5d011bc70f7e7547b5258f.pdf) | [简介](https://zhuanlan.zhihu.com/p/23163137?refer=c_51425207)|
 | 2016.10.22 | 朱芳仪 | [Aggregating Deep Convolutional Features for Image Retrieval](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Babenko_Aggregating_Local_Deep_ICCV_2015_paper.pdf) | [简介](https://zhuanlan.zhihu.com/p/23136747?refer=c_51425207)|
 | 2016.10.16 | 王毅 | [Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811v6.pdf) | [简介](https://zhuanlan.zhihu.com/p/22993927?refer=c_51425207)|
