@@ -2,6 +2,7 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.11.05 | 王新波 | [Effective LSTMs for Target-Dependent Sentiment Classification](https://arxiv.org/pdf/1512.01100v2.pdf) | [简介](https://zhuanlan.zhihu.com/p/23381967?refer=c_51425207)|
 | 2016.10.31 | 卞维杰 | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) | [简介](https://zhuanlan.zhihu.com/p/23326430?refer=c_51425207)|
 | 2016.10.31 | 王毅 | [https://arxiv.org/abs/1610.05011](https://arxiv.org/abs/1610.05011) | [简介](https://zhuanlan.zhihu.com/p/23310586?refer=c_51425207)|
 | 2016.10.31 | 梁亮 | [Accelerating the Mining of Influential Nodes in Complex Networks through Community Detection](http://dl.acm.org/citation.cfm?id=2903181) | [简介](https://zhuanlan.zhihu.com/p/23016734?refer=c_51425207)|
