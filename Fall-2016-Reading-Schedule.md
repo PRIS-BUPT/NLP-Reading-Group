@@ -2,6 +2,7 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.11.06 | 王梓良 | [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/23459263?refer=c_51425207)|
 | 2016.11.06 | 卞维杰 | [Text Understanding with the Attention Sum Reader Network](https://arxiv.org/abs/1603.01547) | [简介](https://zhuanlan.zhihu.com/p/23462480?refer=c_51425207)|
 | 2016.11.05 | 王新波 | [Effective LSTMs for Target-Dependent Sentiment Classification](https://arxiv.org/pdf/1512.01100v2.pdf) | [简介](https://zhuanlan.zhihu.com/p/23381967?refer=c_51425207)|
 | 2016.10.31 | 卞维杰 | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) | [简介](https://zhuanlan.zhihu.com/p/23326430?refer=c_51425207)|
