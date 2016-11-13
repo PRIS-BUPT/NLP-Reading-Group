@@ -2,6 +2,7 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.11.13 | 王新波 | [Attention-based LSTM for Aspect-level Sentiment Classification](http://aclweb.org/anthology/D16-1058) | [简介](https://zhuanlan.zhihu.com/p/23615176?refer=c_51425207)|
 | 2016.11.07 | 鄢曼丽 | [Easy Questions First? A Case Study on Curriculum Learning for Question Answering](https://link.zhihu.com/?target=http://www.cs.cmu.edu/~epxing/papers/2016/Sachan_Xing_ACL16a.pdf) | [简介](https://zhuanlan.zhihu.com/p/23476918?refer=c_51425207)|
 | 2016.11.07 | 梁亮 | [A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts](https://arxiv.org/abs/1610.04345) | [简介](https://zhuanlan.zhihu.com/p/23397726?refer=c_51425207)|
 | 2016.11.06 | 王梓良 | [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/23459263?refer=c_51425207)|
