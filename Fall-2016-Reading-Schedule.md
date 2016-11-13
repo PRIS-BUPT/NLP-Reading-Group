@@ -2,6 +2,7 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.11.14 | 熊志远 | [CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](http://xueshu.baidu.com/s?wd=paperuri%3A%285dcd94dae9133ce5a3e5170ddc2f1ac6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08763%3Fcontext%3Dcs.CL&ie=utf-8&sc_us=10782632938431001880) | [简介](https://zhuanlan.zhihu.com/p/23635696?refer=c_51425207)|
 | 2016.11.13 | 王新波 | [Attention-based LSTM for Aspect-level Sentiment Classification](http://aclweb.org/anthology/D16-1058) | [简介](https://zhuanlan.zhihu.com/p/23615176?refer=c_51425207)|
 | 2016.11.07 | 鄢曼丽 | [Easy Questions First? A Case Study on Curriculum Learning for Question Answering](https://link.zhihu.com/?target=http://www.cs.cmu.edu/~epxing/papers/2016/Sachan_Xing_ACL16a.pdf) | [简介](https://zhuanlan.zhihu.com/p/23476918?refer=c_51425207)|
 | 2016.11.07 | 梁亮 | [A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts](https://arxiv.org/abs/1610.04345) | [简介](https://zhuanlan.zhihu.com/p/23397726?refer=c_51425207)|
