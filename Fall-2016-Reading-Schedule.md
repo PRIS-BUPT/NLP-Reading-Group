@@ -1,12 +1,13 @@
 # 2016秋季学期阅读分享
 
-| 日期| 分享人 | 论文 | 简介 |
+| 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
 | 2016.11.14 | 王毅 | [Online Segment to Segment Neural Transduction](https://arxiv.org/pdf/1609.08194.pdf) | [简介](https://zhuanlan.zhihu.com/p/23634945?refer=c_51425207)|
 | 2016.11.14 | 熊志远 | [CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](http://xueshu.baidu.com/s?wd=paperuri%3A%285dcd94dae9133ce5a3e5170ddc2f1ac6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08763%3Fcontext%3Dcs.CL&ie=utf-8&sc_us=10782632938431001880) | [简介](https://zhuanlan.zhihu.com/p/23635696?refer=c_51425207)|
 | 2016.11.13 | 王新波 | [Attention-based LSTM for Aspect-level Sentiment Classification](http://aclweb.org/anthology/D16-1058) | [简介](https://zhuanlan.zhihu.com/p/23615176?refer=c_51425207)|
 | 2016.11.07 | 鄢曼丽 | [Easy Questions First? A Case Study on Curriculum Learning for Question Answering](https://link.zhihu.com/?target=http://www.cs.cmu.edu/~epxing/papers/2016/Sachan_Xing_ACL16a.pdf) | [简介](https://zhuanlan.zhihu.com/p/23476918?refer=c_51425207)|
 | 2016.11.07 | 梁亮 | [A Language-independent and Compositional Model for Personality Trait Recognition from Short Texts](https://arxiv.org/abs/1610.04345) | [简介](https://zhuanlan.zhihu.com/p/23397726?refer=c_51425207)|
+| 2016.11.07 |  鄢曼丽 | [Harnessing Deep Neural Networks with Logic Rules](http://xueshu.baidu.com/s?wd=paperuri%3A%28be864863705c95e4651359b74171fb49%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1603.06318&ie=utf-8&sc_us=12962920914182931064) | [简介](https://zhuanlan.zhihu.com/p/23476294?refer=c_51425207)|
 | 2016.11.06 | 王梓良 | [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/23459263?refer=c_51425207)|
 | 2016.11.06 | 卞维杰 | [Text Understanding with the Attention Sum Reader Network](https://arxiv.org/abs/1603.01547) | [简介](https://zhuanlan.zhihu.com/p/23462480?refer=c_51425207)|
 | 2016.11.05 | 王新波 | [Effective LSTMs for Target-Dependent Sentiment Classification](https://arxiv.org/pdf/1512.01100v2.pdf) | [简介](https://zhuanlan.zhihu.com/p/23381967?refer=c_51425207)|
