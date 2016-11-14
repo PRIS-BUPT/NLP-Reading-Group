@@ -2,6 +2,7 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.11.14 | 朱芳仪 | [Reading the Videos: Temporal Labeling for Crowdsourced Time-Sync Videos Based on Semantic Embedding](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Guangyi-Lv-AAAI.pdf) | [简介](https://zhuanlan.zhihu.com/p/23644726?refer=c_51425207)|
 | 2016.11.14 | 王毅 | [Online Segment to Segment Neural Transduction](https://arxiv.org/pdf/1609.08194.pdf) | [简介](https://zhuanlan.zhihu.com/p/23634945?refer=c_51425207)|
 | 2016.11.14 | 熊志远 | [CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](http://xueshu.baidu.com/s?wd=paperuri%3A%285dcd94dae9133ce5a3e5170ddc2f1ac6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08763%3Fcontext%3Dcs.CL&ie=utf-8&sc_us=10782632938431001880) | [简介](https://zhuanlan.zhihu.com/p/23635696?refer=c_51425207)|
 | 2016.11.13 | 王新波 | [Attention-based LSTM for Aspect-level Sentiment Classification](http://aclweb.org/anthology/D16-1058) | [简介](https://zhuanlan.zhihu.com/p/23615176?refer=c_51425207)|
