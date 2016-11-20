@@ -2,6 +2,9 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.11.20 | 卞维杰 | [Neural Machine Translation in Linear Time](https://arxiv.org/pdf/1610.10099v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/23795111?refer=c_51425207)|
+| 2016.11.20 | 梁亮 | [Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec](https://arxiv.org/abs/1605.02019) | [简介](https://zhuanlan.zhihu.com/p/23767128?refer=c_51425207)|
+| 2016.11.20 | 王梓良 | [A Neural Knowledge Language Model](https://arxiv.org/pdf/1608.00318v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/23806228?refer=c_51425207)|
 | 2016.11.14 | 朱芳仪 | [Conditional Generative Adversarial Nets](http://xueshu.baidu.com/s?wd=paperuri%3A%282bc8c7a28835ef2a599ea0df524c1867%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1411.1784v1.pdf&ie=utf-8&sc_us=6422065203626979588) | [简介](https://zhuanlan.zhihu.com/p/23648795?refer=c_51425207)|
 | 2016.11.14 | 朱芳仪 | [Reading the Videos: Temporal Labeling for Crowdsourced Time-Sync Videos Based on Semantic Embedding](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Guangyi-Lv-AAAI.pdf) | [简介](https://zhuanlan.zhihu.com/p/23644726?refer=c_51425207)|
 | 2016.11.14 | 王毅 | [Online Segment to Segment Neural Transduction](https://arxiv.org/pdf/1609.08194.pdf) | [简介](https://zhuanlan.zhihu.com/p/23634945?refer=c_51425207)|
