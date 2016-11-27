@@ -2,6 +2,7 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.11.27 | 朱芳仪 | [Teaching-to-Learn and Learning-to-Teach for Multi-label Propagation](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj4kJWJ_cXQAhVEVbwKHVo8A70QFggiMAE&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%61%61%61%69%2e%6f%72%67%2f%6f%63%73%2f%69%6e%64%65%78%2e%70%68%70%2f%41%41%41%49%2f%41%41%41%49%31%36%2f%70%61%70%65%72%2f%64%6f%77%6e%6c%6f%61%64%2f%31%31%37%38%30%2f%31%31%37%38%30&usg=AFQjCNH5ez63tSym-u1AgtfiGVgJg9Nryg&sig2=fq-Floe5WuxVu1kXI67sTg) | [简介](https://zhuanlan.zhihu.com/p/23968675?refer=c_51425207)|
 | 2016.11.20 | 卞维杰 | [Neural Machine Translation in Linear Time](https://arxiv.org/pdf/1610.10099v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/23795111?refer=c_51425207)|
 | 2016.11.20 | 梁亮 | [Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec](https://arxiv.org/abs/1605.02019) | [简介](https://zhuanlan.zhihu.com/p/23767128?refer=c_51425207)|
 | 2016.11.20 | 王梓良 | [A Neural Knowledge Language Model](https://arxiv.org/pdf/1608.00318v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/23806228?refer=c_51425207)|
