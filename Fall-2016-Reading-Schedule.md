@@ -2,6 +2,7 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.12.05 | 王毅 | [Improving Multi-Document Summarization via Text Classification](https://arxiv.org/pdf/1611.09238.pdf) | [简介](https://zhuanlan.zhihu.com/p/24163972?refer=c_51425207)|
 | 2016.12.04 | 梁亮 | [Unsupervised Learning of Sentence Representations using Convolutional Neural Networks](https://arxiv.org/abs/1611.07897) | [简介](https://zhuanlan.zhihu.com/p/24120397?refer=c_51425207)|
 | 2016.12.04 | 王梓良 | [Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings](https://aclweb.org/anthology/D/D15/D15-1064.pdf) | [简介](https://zhuanlan.zhihu.com/p/24160574?refer=c_51425207)|
 | 2016.12.04 | 鄢曼丽 | [Learning to Compose Neural Networks for Question Answering](https://link.zhihu.com/?target=https://arxiv.org/abs/1601.01705) | [简介](https://zhuanlan.zhihu.com/p/24160105?refer=c_51425207)|
