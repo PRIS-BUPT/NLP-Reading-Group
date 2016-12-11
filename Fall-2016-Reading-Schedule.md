@@ -2,6 +2,9 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.12.11 | 熊志远 | [Character-Level Question Answering with Attention](http://lanl.arxiv.org/pdf/1604.00727v4) | [简介](https://zhuanlan.zhihu.com/p/24309167?refer=c_51425207)|
+| 2016.12.11 | 王新波 | [Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://anthology.aclweb.org/P/P14/P14-1146.pdf) | [简介](https://zhuanlan.zhihu.com/p/24217324?refer=c_51425207)|
+| 2016.12.11 | 卞维杰 | [Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems](https://arxiv.org/pdf/1610.07149v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/24308624?refer=c_51425207)|
 | 2016.12.08 | 朱芳仪 | [《Image-to-Image Translation with Conditional Adversarial Networks》](https://phillipi.github.io/pix2pix/) | [简介](https://zhuanlan.zhihu.com/p/24248684?refer=c_51425207)|
 | 2016.12.05 | 王毅 | [Improving Multi-Document Summarization via Text Classification](https://arxiv.org/pdf/1611.09238.pdf) | [简介](https://zhuanlan.zhihu.com/p/24163972?refer=c_51425207)|
 | 2016.12.04 | 梁亮 | [Unsupervised Learning of Sentence Representations using Convolutional Neural Networks](https://arxiv.org/abs/1611.07897) | [简介](https://zhuanlan.zhihu.com/p/24120397?refer=c_51425207)|
