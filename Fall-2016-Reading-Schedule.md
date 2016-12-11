@@ -2,6 +2,7 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.12.11 | 王梓良 | [Improving Named Entity Recognition for Chinese Social Media with Word Segmentation Representation Learning](https://www.aclweb.org/anthology/P/P16/P16-2025.pdf) | [简介](https://zhuanlan.zhihu.com/p/24307747?refer=c_51425207)|
 | 2016.12.11 | 熊志远 | [Character-Level Question Answering with Attention](http://lanl.arxiv.org/pdf/1604.00727v4) | [简介](https://zhuanlan.zhihu.com/p/24309167?refer=c_51425207)|
 | 2016.12.11 | 王新波 | [Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://anthology.aclweb.org/P/P14/P14-1146.pdf) | [简介](https://zhuanlan.zhihu.com/p/24217324?refer=c_51425207)|
 | 2016.12.11 | 卞维杰 | [Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems](https://arxiv.org/pdf/1610.07149v1.pdf) | [简介](https://zhuanlan.zhihu.com/p/24308624?refer=c_51425207)|
