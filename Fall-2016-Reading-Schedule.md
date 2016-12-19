@@ -2,7 +2,6 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
-| 2016.12.18 | 熊志远 | [Question Answering on Freebase via Relation Extraction and Textual Evidence](http://anthology.aclweb.org/P/P16/P16-1220.pdf) | [简介](https://zhuanlan.zhihu.com/p/24434352?refer=c_51425207)|
 | 2016.12.18 | 梁亮 | [DeepCas: an End-to-end Predictor of Information Cascades](https://arxiv.org/abs/1611.05373) | [简介](https://zhuanlan.zhihu.com/p/24430190?refer=c_51425207)|
 | 2016.12.11 | 王梓良 | [Improving Named Entity Recognition for Chinese Social Media with Word Segmentation Representation Learning](https://www.aclweb.org/anthology/P/P16/P16-2025.pdf) | [简介](https://zhuanlan.zhihu.com/p/24307747?refer=c_51425207)|
 | 2016.12.11 | 熊志远 | [Character-Level Question Answering with Attention](http://lanl.arxiv.org/pdf/1604.00727v4) | [简介](https://zhuanlan.zhihu.com/p/24309167?refer=c_51425207)|
