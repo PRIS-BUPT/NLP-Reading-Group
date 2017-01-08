@@ -2,6 +2,7 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2017.01.08 | 梁亮 | [Structural Deep Network Embedding](http://10.3.200.202/cache/8/03/kdd.org/c424241c333f6f5dddbb46a35ff251c5/rfp0191-wangAemb.pdf) | [简介](https://zhuanlan.zhihu.com/p/24769965?refer=c_51425207)|
 | 2017.01.01 | Jason | [《Modeling Coverage for Neural Machine Translation》阅读笔记](https://zhuanlan.zhihu.com/p/22993927) | [简介](https://zhuanlan.zhihu.com/p/24328777?refer=c_51425207)|
 | 2016.12.25 | 鄢曼丽 | [Semi-supervised Question Retrieval with Gated Convolutions](https://link.zhihu.com/?target=http://www.aclweb.org/anthology/N16-1153) | [简介](https://zhuanlan.zhihu.com/p/24549943?refer=c_51425207)|
 | 2016.12.25 | 王梓良 | [Inner Attention based Recurrent Neural Networks for Answer Selection](https://www.aclweb.org/anthology/P/P16/P16-1122.pdf) | [简介](https://zhuanlan.zhihu.com/p/24433861?refer=c_51425207)|
