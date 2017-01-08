@@ -2,6 +2,7 @@
 
 | 日期| 分享人  | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2017.01.09 | 熊志远 | [Language Modeling with Gated Convolutional Networks](http://xueshu.baidu.com/s?wd=paperuri%3A%28f16fbd87a56b00bfacb2879977b50c44%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1612.08083%3Fcontext%3Dcs&ie=utf-8&sc_us=11300875033503293761) | [简介](https://zhuanlan.zhihu.com/p/24780258?refer=c_51425207)|
 | 2017.01.08 | 卞维杰 | [Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1](https://arxiv.org/pdf/1602.02830v3.pdf) | [简介](https://zhuanlan.zhihu.com/p/24679842?refer=c_51425207)|
 | 2017.01.08 | 梁亮 | [Structural Deep Network Embedding](http://10.3.200.202/cache/8/03/kdd.org/c424241c333f6f5dddbb46a35ff251c5/rfp0191-wangAemb.pdf) | [简介](https://zhuanlan.zhihu.com/p/24769965?refer=c_51425207)|
 | 2017.01.01 | Jason | [《Modeling Coverage for Neural Machine Translation》阅读笔记](https://zhuanlan.zhihu.com/p/22993927) | [简介](https://zhuanlan.zhihu.com/p/24328777?refer=c_51425207)|
